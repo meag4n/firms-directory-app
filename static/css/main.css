@@ -1,0 +1,16 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16pt;
+  background: #FFEEE9;
+  width: 75%;
+  height: 75%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 50; right: 0;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30pt;
+  text-align: center;
+}
